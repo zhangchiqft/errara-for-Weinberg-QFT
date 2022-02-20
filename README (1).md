@@ -1,1 +1,0 @@
-# errara-for-Weinberg-QFT
