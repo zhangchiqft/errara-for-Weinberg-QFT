@@ -74,6 +74,19 @@ $$
 方程(5.4.20)下面的一段中: “所以Dirac矩阵固有正时Lorentz群提供了一个可约表示” 应为 “所以Dirac矩阵**为**固有正时Lorentz群提供了一个可约表示”.
 \(感谢郭家祺.\)
 
+
+### 第210页:
+
+第二个未编号公式应为
+$$
+\mathsf{C}\Phi = -\sum_{\sigma,\sigma'}\int \mathrm{d}^{3}p\,
+\mathrm{d}^{3}p' \:\chi(\bm{p}',\sigma';\bm{p},\sigma)
+a^{\dag}(\bm{p},\sigma)a^{\mathrm{c}\dag}(\bm{p}',\sigma')\Phi_{0} \:.
+$$
+(感谢赵哲.)
+
+
+
 ## 第七章
 
 ### 第273页:
