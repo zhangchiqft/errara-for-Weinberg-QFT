@@ -85,7 +85,7 @@ $$
   &  \sum_{\bar{\ell}}D_{\ell\bar{\ell}}(\Lambda^{-1})
   u_{\bar{\ell}}(\Lambda x+b;\bm{p}_{\Lambda},\sigma,n)  =\sqrt{p^{0}\Big/(\Lambda
 p)^{0}}\\
-&  \qquad\times\:\sum_{\bar{\sigma}}D_{\bar{\sigma}\sigma}^{(j_{n})}%
+&  \qquad\times\:\sum_{\bar{\sigma}}D_{\bar{\sigma}\sigma}^{(j_{n})}
 \Big(W^{-1}(\Lambda,p)\Big)\exp\Bigl(+\mathrm{i}(\Lambda p)\cdot b\Bigr)u_{\ell}(x;\bm{p},\bar{\sigma},n)
 \end{aligned}
 $$
