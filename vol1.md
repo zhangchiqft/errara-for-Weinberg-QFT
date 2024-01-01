@@ -77,6 +77,31 @@ $$
 
 ## 第五章
 
+
+### 第180页:
+
+最上面的两个未编号公式应为
+$$
+\begin{align*}
+  &  \sum_{\bar{\ell}}D_{\ell\bar{\ell}}(\Lambda^{-1})
+  u_{\bar{\ell}}(\Lambda x+b;\bm{p}_{\Lambda},\sigma,n)  =\sqrt{p^{0}\Big/(\Lambda
+p)^{0}}\\
+&  \qquad\times\:\sum_{\bar{\sigma}}D_{\bar{\sigma}\sigma}^{(j_{n})}%
+\Big(W^{-1}(\Lambda,p)\Big)\exp\Bigl(+\mathrm{i}(\Lambda p)\cdot b\Bigr)u_{\ell}(x;\bm{p},\bar{\sigma},n)
+\end{align*}
+$$
+以及
+$$
+\begin{align*}
+&  \sum_{\bar{\ell}}D_{\ell\bar{\ell}}(\Lambda^{-1})v_{\bar{\ell}}(
+\Lambda x+b;\bm{p}_{\Lambda},\sigma,n)=\sqrt{p^{0}\Big/(\Lambda p)^{0}}\\
+&  \qquad\times\:\sum_{\bar{\sigma}}D_{\bar{\sigma}\sigma}^{(j_{n})\ast
+}\Big(W^{-1}(\Lambda,p)\Big)\exp\Bigl(-\mathrm{i}(\Lambda p)\cdot b\Bigr)v_{\ell}(x;\bm{p},\bar{\sigma},n)
+\end{align*}
+$$
+这两个方程右边的$$D_{\sigma\bar{\sigma}}$$被改成了$$D_{\bar{\sigma}\sigma}$$, 原书也有相同笔误. \(感谢赵哲.\)
+
+
 ### 第189页:
 方程(5.2.11)后面一段中最后的 “(这时$$a^{\mathrm{c}}(\bm{p}\neq a(\bm{p})$$)” 应为 “(这时$$a^{\mathrm{c}}(\bm{p})\neq a(\bm{p})$$)”
 \(感谢郭家祺.\)
@@ -114,10 +139,24 @@ p(\bm{x},t) \equiv  \dot{\phi}^{\dag}(\bm{x},t) .
 $$
 \(感谢郭家祺.\)
 
+
+
 ### 第304页:
 
 方程(7.6.13)上面一段中: “使得这些约束彼此之间的Poisson括号的线性组合$$\sum_{N}u_{N}[\chi_{N},\chi_{M}]$$不为零” 应为 “使得这些约束彼此之间的Poisson括号的线性组合$$\sum_{N}u_{N}[\chi_{N},\chi_{M}]_{\mathrm{P}}$$不为零”.
 \(感谢郭家祺.\)
+
+## 第八章
+
+### 第315页
+
+方程(8.1.2)应为
+$$
+U_{0}(\Lambda)a_{\mu}(x)U_{0}^{-1}(\Lambda) = 
+(\Lambda^{-1})_{\mu}{}^{\nu}a_{\nu}(\Lambda x)+ \partial_{\mu}\Omega(x,\Lambda) \:.
+$$
+原书此处也有同样错误. \(感谢赵哲.\)
+
 
 ## 第九章
 
