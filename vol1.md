@@ -82,24 +82,25 @@ $$
 
 最上面的两个未编号公式应为
 $$
-\begin{align*}
+\begin{aligned}
   &  \sum_{\bar{\ell}}D_{\ell\bar{\ell}}(\Lambda^{-1})
   u_{\bar{\ell}}(\Lambda x+b;\bm{p}_{\Lambda},\sigma,n)  =\sqrt{p^{0}\Big/(\Lambda
 p)^{0}}\\
 &  \qquad\times\:\sum_{\bar{\sigma}}D_{\bar{\sigma}\sigma}^{(j_{n})}%
 \Big(W^{-1}(\Lambda,p)\Big)\exp\Bigl(+\mathrm{i}(\Lambda p)\cdot b\Bigr)u_{\ell}(x;\bm{p},\bar{\sigma},n)
-\end{align*}
+\end{aligned}
 $$
 以及
 $$
-\begin{align*}
+\begin{aligned}
 &  \sum_{\bar{\ell}}D_{\ell\bar{\ell}}(\Lambda^{-1})v_{\bar{\ell}}(
 \Lambda x+b;\bm{p}_{\Lambda},\sigma,n)=\sqrt{p^{0}\Big/(\Lambda p)^{0}}\\
 &  \qquad\times\:\sum_{\bar{\sigma}}D_{\bar{\sigma}\sigma}^{(j_{n})\ast
 }\Big(W^{-1}(\Lambda,p)\Big)\exp\Bigl(-\mathrm{i}(\Lambda p)\cdot b\Bigr)v_{\ell}(x;\bm{p},\bar{\sigma},n)
-\end{align*}
+\end{aligned}
 $$
-这两个方程右边的$$D_{\sigma\bar{\sigma}}$$被改成了$$D_{\bar{\sigma}\sigma}$$, 原书也有相同笔误. \(感谢赵哲.\)
+这两个方程右边的$$D_{\sigma\bar{\sigma}}$$被改成了$$D_{\bar{\sigma}\sigma}$$, 原书也有相同笔误. 
+\(感谢赵哲.\)
 
 
 ### 第189页:
